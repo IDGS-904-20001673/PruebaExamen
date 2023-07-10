@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Globales";
+}
+
+<h1>Las Ventas globales son de: </h1>
+<div id="global" ></div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+<script src="~/Scripts/Ventas.js"></script>
+<script>VentasXArticulo()</script>
+<script>Globales()</script>

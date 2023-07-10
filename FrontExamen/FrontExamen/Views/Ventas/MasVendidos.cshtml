@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "MasVendidos";
+}
+<link rel="stylesheet" href="~/Scripts/tabla.css">
+<h2>Mas Vendidos</h2>
+
+
+<div class="col-12">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Titulo</th>
+                <th>Cantidad Vendida</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+        </tbody>
+    </table>
+</div>
+
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+<script src="~/Scripts/Ventas.js"></script>
+
+<script>MasVendidos()</script>

@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Exitencias";
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.4/dist/sweetalert2.min.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.4/dist/sweetalert2.all.min.js"></script>
+<link rel="stylesheet" href="~/Scripts/tabla.css">
+<h2>Exitencias</h2>
+
+
+<div class="col-12">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Existencias</th>
+
+            </tr>
+        </thead>
+        <tbody id="tbody">
+        </tbody>
+    </table>
+</div>
+
+
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+<script src="~/Scripts/Ventas.js"></script>
+<script>Existenacias()</script>
