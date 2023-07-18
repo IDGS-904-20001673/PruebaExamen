@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdbqdOd5De6IXOFq99ajUeVmfLQNdOuvZuABTuFu7jgdrxbTmOtjhC86QEyLNQpfQDPHrLolGQI4YM4xf6DXeg==",
+  "dgSpecHash": "skpNq+lhGG9nYdNCSNdXFYxZWAdi32bqIibzYT1zLKYHlsopbjsU1Dw2fojSmFwuQUEjU4FjE+LHkOs40cMZow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\BackExamen\\BackExamen\\BackExamen.csproj",
+  "projectFilePath": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\servidor\\BackExamen\\BackExamen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roble_p4xiojp\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "C:\\Users\\roble_p4xiojp\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

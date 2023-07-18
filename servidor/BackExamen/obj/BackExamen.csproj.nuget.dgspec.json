@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\BackExamen\\BackExamen\\BackExamen.csproj": {}
+    "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\servidor\\BackExamen\\BackExamen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\BackExamen\\BackExamen\\BackExamen.csproj": {
+    "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\servidor\\BackExamen\\BackExamen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\BackExamen\\BackExamen\\BackExamen.csproj",
+        "projectUniqueName": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\servidor\\BackExamen\\BackExamen.csproj",
         "projectName": "BackExamen",
-        "projectPath": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\BackExamen\\BackExamen\\BackExamen.csproj",
+        "projectPath": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\servidor\\BackExamen\\BackExamen.csproj",
         "packagesPath": "C:\\Users\\roble_p4xiojp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\BackExamen\\BackExamen\\obj\\",
+        "outputPath": "C:\\Users\\roble_p4xiojp\\OneDrive\\Escritorio\\examen\\servidor\\BackExamen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roble_p4xiojp\\AppData\\Roaming\\NuGet\\NuGet.Config",

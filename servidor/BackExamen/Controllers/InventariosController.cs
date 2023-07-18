@@ -11,7 +11,7 @@ namespace BackExamen.Controllers
     public class InventariosController : ControllerBase
     {
 
-        [HttpPost]
+        [HttpGet]
         [Route("mostrarVentas")]
 
 
@@ -20,7 +20,7 @@ namespace BackExamen.Controllers
             return VentasData.MostrarVentas();              
             }
 
-        [HttpPost]
+        [HttpGet]
         [Route("mostrarProductos")]
 
 

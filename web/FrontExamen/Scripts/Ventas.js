@@ -2,7 +2,7 @@ function VentasXArticulo() {
     var contenido = '';
     var ventaGlobal=0;
     $.ajax({
-        type: 'POST',
+        type: 'GET',
         url: "https://localhost:7109/examen/mostrarProductos",
         data: {
           
@@ -47,7 +47,7 @@ function Ventas() {
     var contenido = '';
     var fecha;
     $.ajax({
-        type: 'POST',
+        type: 'GET',
         url: "https://localhost:7109/examen/mostrarVentas",
         data: {
 
@@ -90,7 +90,7 @@ function Ventas() {
 function MasVendidos() {
     var contenido = '';
     $.ajax({
-        type: 'POST',
+        type: 'GET',
         url: "https://localhost:7109/examen/mostrarProductos",
         data: {
 
@@ -129,7 +129,7 @@ function Existenacias() {
     tabla += '<tr><th style="background-color: #f2f2f2; padding: 8px; border: 1px solid #ddd;">Titulo</th><th style="background-color: #f2f2f2; padding: 8px; border: 1px solid #ddd;">Existencias</th></tr>';
 
     $.ajax({
-        type: 'POST',
+        type: 'GET',
         url: "https://localhost:7109/examen/mostrarProductos",
         data: {
 
